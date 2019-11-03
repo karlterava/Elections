@@ -1,0 +1,6 @@
+body { padding-top: 60px; padding-bottom: 40px; }
+.modal-backdrop,.modal-backdrop.fade.in{ opacity: .2; filter: alpha(opacity=20); }
+.close { margin: 10px 10px 0 0; }
+body.modal-open { overflow: hidden; }
+.thumbnail { text-align: center; }
+.vote-button { margin-top: 5px; display: none; }
